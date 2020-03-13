@@ -3,7 +3,7 @@
 ### Mod Description:
 Adds consumable toast food into minecraft.
 
-![toast](https://github.com/Zircon332/toast-mc/toast.png "Toast Texture")
+![toast](https://github.com/Zircon332/toast-mc/blob/master/toast.png "Toast Texture")
 
 
 ### Crafting recipe:
