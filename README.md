@@ -7,13 +7,13 @@ Adds consumable toast food into minecraft.
 
 
 ### Crafting recipe:
-> Cook bread in furnace.
+> Cook bread in furnace, campfire and smoker.
 
 
 ### Toast properties:
 ```
 Hunger gain - 8
-Saturation - n/a
+Saturation - 5
 ```
  
  
